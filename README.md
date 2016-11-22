@@ -8,7 +8,7 @@ Built an app that allows users to tour the world without leaving the comforts of
 </header>
 <body>
     <p> 
-    This app allows you to drop pins on a map, then navigate to a collection view that has stored images from the Flicker API associated with that location. 
+    This app allows you to drop pins on a map. Then navigate to a collection view that has stored images from the Flicker API associated with that location. 
     Locations and images are stored using Core Data.
     </p>
 </body>
