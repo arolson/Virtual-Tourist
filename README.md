@@ -1,5 +1,7 @@
 # Virtual-Tourist
-Udacity Course Project
+<header>
+<h4>Udacity Course Project</h4>
+</header>
 Built an app that allows users to tour the world without leaving the comforts of their couch.
 <header>
    <h3>User Interaction</h3>
